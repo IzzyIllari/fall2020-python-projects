@@ -1,2 +1,6 @@
-# fall2020-python-projects
-Projects from my Fall2020 classes
+# Fall2020 Dats Classes
+
+This repo is a collection of my work for the following classes:
+
+DATS6103: Introduction to Data Mining_DATS_6103_O10, Dr. Nima Zahadat
+DATS6202: Machine Learning I, Dr. Yuxiao Huang 
