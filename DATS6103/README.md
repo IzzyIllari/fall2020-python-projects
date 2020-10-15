@@ -1,6 +1,4 @@
-# Fall2020 Dats Classes
+# DATS6103: Introduction to Data Mining
 
-This repo is a collection of my work for the following classes:
-
-DATS6103: Introduction to Data Mining_DATS_6103_O10, Dr. Nima Zahadat <br />
-DATS6202: Machine Learning I, Dr. Yuxiao Huang 
+## Project 1
+Analysis of military expenditures of several countries using data from the World Bank. Data pre-processing and analysis all performed using python.
